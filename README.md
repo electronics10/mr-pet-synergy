@@ -32,7 +32,7 @@ year's funding.
 ## Decided
 
 - **No AUTOMAP**, even though the proposal names it.
-- **The MAP-EM baseline lives in the shared toolkit** (`pet-sim-recon`), not here. It includes a
+- **The MAP-EM baseline lives in the shared toolkit** ([pet-sim-recon](https://github.com/electronics10/pet-sim-recon)), not here. It includes a
   PET-only penalty and an MR-guided one (e.g. Bowsher weights). A working prototype of both exists.
 - **Simulated PET** comes from MCGPU-PET through the toolkit.
 - **The unrolled network needs raw PET data** (sinograms). The real scanner doesn't give those, so for
