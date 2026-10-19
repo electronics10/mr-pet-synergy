@@ -11,8 +11,3 @@ data/
 *.vox.gz
 *.dcm
 checkpoints*/
-
-# Private documents kept locally only
-docs/proposal.pdf
-# Scan plan: still a local draft, under discussion
-docs/scan-2026-10-20.md
