@@ -70,3 +70,7 @@ year's funding.
    own MR value, chosen independently of its PET activity, so lesions MR can't see come for free.
 5. Which realistic mouse models to use, if any (Digimouse is free; MOBY needs a licence).
 6. Which dose levels to simulate.
+
+## Previous works (may serve as prototypes)
+
+- [mcgpu-recon](https://github.com/electronics10/mcgpu-recon) (MAP-EM with uniform, Bowsher and RDP penalties)
